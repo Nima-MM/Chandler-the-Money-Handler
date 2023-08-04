@@ -1,0 +1,14 @@
+{
+  "name": "chandler-the-money-handler",
+  "version": "0.5.0",
+  "description": "mini HTML5 - game, created with phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "jsdoc -d docs --configure jsdocConf.json"
+  },
+  "dependencies": {
+    "docdash": "^2.0.1",
+    "phaser": "^3.60.0"
+  }
+}
