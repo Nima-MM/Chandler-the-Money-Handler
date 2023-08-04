@@ -12,7 +12,6 @@
  */
 /**
   * @module chandler-the-money-handler
-  * @author nima
   */
 let config = {
   type: Phaser.AUTO,
